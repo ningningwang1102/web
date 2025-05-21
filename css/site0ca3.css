@@ -1,1 +1,43 @@
-.page_a.current{border-style:none;background-color:#e62129}.page_a.current:hover{background-color:#e62129}.page_a:hover{background-color:#e62129}@font-face{font-family:"2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4";src:url(https://omo-oss-file1.thefastfile.com/portal-saas/new2022102819005201556/cms/file/2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4.ttf) format("truetype");font-alias:myriadpro-semiboldsemiext-7-webfont}.swiper-button-next,.swiper-button-prev{color:#000}*{word-break:break-word}.s_templatetitle{font-size:18px}.s_summary{font-family:"2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4";font-size:50px;line-height:1}.s_link{font-size:30px;font-family:"2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4";line-height:1}.s_body{font-size:20px;font-family:"2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4"}
+.page_a.current {
+  border-style: none;
+  background-color: #e62129;
+}
+.page_a.current:hover {
+  background-color: #e62129;
+}
+.page_a:hover {
+  background-color: #e62129;
+}
+@font-face {
+  font-family: "2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4";
+  /* src: url(https://omo-oss-file1.thefastfile.com/portal-saas/new2022102819005201556/cms/file/2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4.ttf)
+    format("truetype"); */
+  font-alias: myriadpro-semiboldsemiext-7-webfont;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  color: #000;
+}
+* {
+  word-break: break-word;
+}
+.s_templatetitle {
+  font-size: 18px;
+}
+.s_summary {
+  font-family: "2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4";
+  font-size: 50px;
+  line-height: 1;
+}
+.s_link {
+  font-size: 30px;
+  font-family: "2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4";
+  line-height: 1;
+}
+.s_body {
+  font-size: 20px;
+  font-family: "2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4";
+}
+.p_navBox1 .p_navItem1:nth-child(5){
+   display: none;
+}
