@@ -32,15 +32,15 @@
 
 @font-face {
     font-family: "MyriadPro";
-    src: url(https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/f5b97833-3da4-4c2f-ba71-2d0949d59af6.ttf);
+    /* src: url(https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/f5b97833-3da4-4c2f-ba71-2d0949d59af6.ttf); */
 }
 
 @font-face {
     font-family: "MyriadProSemiBoldSemiExtended";
   src: url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/b5515533-e40d-426c-b051-e0df431fbc06.eot'); /* IE9*/
   src: url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/b5515533-e40d-426c-b051-e0df431fbc06.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/91692dcd-06df-4f6f-8723-2d649ba6fbcb.woff') format('woff'), /* chrome, firefox */
-  url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  /* url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/91692dcd-06df-4f6f-8723-2d649ba6fbcb.woff') format('woff'), chrome, firefox */
+  /* url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/2ab11e8a-90c7-4cb8-b836-4c3f4278a2d4.ttf') format('truetype'), chrome, firefox, opera, Safari, Android, iOS 4.2+ */
   url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/e68babf6-aa3b-430e-88ef-22ef99f53972.svg#mw-iconfont') format('svg'); /* iOS 4.1- */
 }
 
@@ -48,8 +48,8 @@
     font-family: "MyriadProLightSemiExtended";
   src: url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/54653cd0-7189-4fb0-b622-4db3c1aedf7c.eot'); /* IE9*/
   src: url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/b5515533-e40d-426c-b051-e0df431fbc06.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/a8960f75-89fa-43b8-95fe-19e44d738e11.woff') format('woff'), /* chrome, firefox */
-  url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/e6e0fa85-f479-4434-bd3a-7f5d39a66a6b.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  /* url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/a8960f75-89fa-43b8-95fe-19e44d738e11.woff') format('woff'), chrome, firefox */
+  /* url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/e6e0fa85-f479-4434-bd3a-7f5d39a66a6b.ttf') format('truetype'), chrome, firefox, opera, Safari, Android, iOS 4.2+ */
   url('https://omo-oss-file.thefastfile.com/portal-saas/new2022102819005201556/cms/file/d45f4dfb-efe4-45c3-a13a-928ebe03e617.svg#mw-iconfont') format('svg'); /* iOS 4.1- */
 }
 
