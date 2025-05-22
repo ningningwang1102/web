@@ -1,0 +1,1 @@
+"use strict";$define([],function(){return{init:function(i,n,e){var t=e.id,e=e.cid;$("#"+e).find("."+t).find(".page_con").remove()}}});

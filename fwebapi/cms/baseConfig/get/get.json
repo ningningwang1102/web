@@ -1,0 +1,27 @@
+{
+    "status": 200,
+    "msg": "success",
+    "data": {
+        "status": "200",
+        "msg": "success",
+        "data": {
+            "currencyType": "CNY",
+            "currencySign": "¥",
+            "siteName_symbol": "圣莉亚淋浴房",
+            "businessImgId": "1707287124955512832",
+            "siteLogo_symbol": "",
+            "businessImgUrl": "portal-saas/new2022102819005201556/cms/image/e2ec5265-7f83-40d0-ad53-aedb71cb0bc8.jpg",
+            "siteLogo_symbolId": "",
+            "makeText": "由中企动力科技集团股份有限公司台州分公司技术部设计制作<br>如果您有任何意见或建议请电邮dm-taizhou@300.cn",
+            "faviconUrl": "/favicon.ico",
+            "reportInfo_symbol": "",
+            "mainProduct_symbol": "淋浴房,整体淋浴房,简易沐浴房",
+            "introduction_text": "圣莉亚淋浴房，有风格的淋浴房，淋浴房十大知名品牌，中国厨卫百强淋浴房五强企业，公司成立于2002年，是集整体淋浴房设计、生产制造、销售服务为一体的企业",
+            "copyrightInfo_symbol": "",
+            "currencyName": "人民币",
+            "runModel_symbol": "",
+            "makeFlag": true,
+            "mainIndustry_symbol": "其它"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+"use strict";$define(["phoneCodeZhCN"],function(e){allCountries.map(function(e){return e[1].toUpperCase()});return{countries:allCountries.map(function(e){return{name:e[0],iso2:e[1].toUpperCase(),dialCode:"+"+e[2],priority:e[3]||0,areaCodes:e[4]||null}})}});
